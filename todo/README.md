@@ -1,12 +1,39 @@
-# React + Vite
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ToDo List with Ract 
 
-Currently, two official plugins are available:
+![javascript][JAVASCRIPT__BADGE]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About the project
+This repository contains a Landing Page built with **React**.
 
-## Expanding the ESLint configuration
+## 🚀 How to run the project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✅ Requirements
+Before starting, make sure you have the following installed:
+
+- [NodeJS](https://nodejs.org/) 
+- [Git](https://git-scm.com/)
+
+### 📥 Cloning the repository
+Run the following command to clone the repository locally:
+
+```bash
+git clone https://github.com/EmanuelIna/ToDoList.git
+cd ToDoList
+```
+
+### ▶️ Starting the project
+Now, install the dependencies and start the project:
+
+```bash
+npm install
+npm start
+```
+The project will be running at `http://localhost:4200/`.
+   
+## 🔗 Useful links
+- [Angular 17 Documentation](https://angular.dev/)
+
+
+
