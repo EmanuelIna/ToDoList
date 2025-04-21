@@ -30,10 +30,10 @@ Now, install the dependencies and start the project:
 npm install
 npm start
 ```
-The project will be running at `http://localhost:4200/`.
+The project will be running at `http://localhost:5173/`.
    
 ## 🔗 Useful links
-- [Angular 17 Documentation](https://angular.dev/)
+- [React Documentation](https://react.dev)
 
 
 
